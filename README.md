@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riza wahyu</h1>
 <h3 align="center">Cs student at Indonesia University of Education</h3>
 
-- 🌱 I’m currently learning **Aws, etc**
+- 🌱 I’m currently learning **C, C++, aws and some ai stuff**
 
-- 📫 How to reach me **Rizawahyoo@gmail.com/ @r1zawn at insta**
+- 📫 How to reach me **rizawn69@gmail.com / @r1zawn at insta**
 
 - ⚡ Fun fact **i accidently choose computer science not computer engineering**
 
