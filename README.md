@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine learning<br>🌱 I’m currently learning Machine learning, quant trading and more<br>👨‍💻 All of my projects are available at [this github btw](this github btw)<br>💬 Ask me about how did you got no bitches<br>📫 How to reach me rizawahyoo@gmail.com<br>⚡ Fun fact i think that i blocked her on my github
+🔭 I’m currently working on Machine learning<br>🌱 I’m currently learning Machine learning, quant trading and more<br>👨‍💻 All of my projects are available at (this github btw)<br>💬 Ask me about how did you got no bitches<br>📫 How to reach me rizawahyoo@gmail.com<br>⚡ Fun fact i think that i blocked her on my github
 
 
 ## 🌐 Socials:
