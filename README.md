@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine learning<br>🌱 I’m currently learning Machine learning, quant trading and more<br>👨‍💻 All of my projects are available at (this github btw)<br>💬 Ask me about how did you got no bitches<br>📫 How to reach me rizawahyoo@gmail.com<br>⚡ Fun fact i think that i blocked her on my github
-
+🔭 I’m currently working on Machine learning<br>🌱 I’m currently learning Machine learning, quant trading and more<br>👨‍💻 All of my projects are available at (this github btw)<br>💬 Ask me about how did you got no bitches<br>📫 How to reach me rizawahyoo@gmail.com<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/r1zawn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iza20191012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riza-wahyu-nugraha) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Riza-wahyu-nugraha) 
