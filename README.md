@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,1e1b4b,4c1d95,7c3aed&height=220&section=header&text=RIZA%20WAHYU&fontSize=46&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%" alt="Capsule Render Wave Banner" />
 
@@ -151,5 +150,3 @@ Built directly at the intersection of firmware optimization and hardware mechani
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riza10l&theme=tokyonight&background=0D0B18&title=A78BFA&ring=7C3AED&fire=4C1D95&currStreakNum=E2E8F0&sideLabels=E2E8F0" alt="GitHub Streak Tracker" width="100%" />
 </div>
-
-```
