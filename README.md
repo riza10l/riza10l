@@ -8,25 +8,25 @@
   <br />
 
   <img src="https://img.shields.io/badge/B.S._Computer_Science-Univ._Pendidikan_Indonesia-4C1D95?style=for-the-badge&logo=education&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Focus-AI_Infrastructure_%26_Hardware-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Fokus-AI_Infrastructure_%26_Quantitative_Models-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
 
   <br />
 
-  <img src="https://img.shields.io/badge/Location-Bandung%2C_Indonesia-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Lokasi-Bandung%2C_Indonesia-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 
   <br /><br />
 
   <a href="https://github.com/riza10l" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Button" />
+    <img src="https://img.shields.io/badge/Portofolio-GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Button" />
   </a>
   <a href="https://linkedin.com/in/riza-wahyu-nugraha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hubungkan-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
   <a href="mailto:rizawahyoo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
+    <img src="https://img.shields.io/badge/Email-Kontak-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
   </a>
   <a href="https://discord.gg/r1zawn" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Community-A78BFA?style=for-the-badge&logo=discord&logoColor=111827" alt="Discord Button" />
+    <img src="https://img.shields.io/badge/Discord-Komunitas-A78BFA?style=for-the-badge&logo=discord&logoColor=111827" alt="Discord Button" />
   </a>
 
   <br /><br />
@@ -37,47 +37,47 @@
 </div>
 <br /><hr style="border: 1px solid #4C1D95;" /><br />
 
-## 🌌 Executive Summary & Engineering Philosophy
+## 🌌 Ringkasan Eksekutif & Filosofi Rekayasa
 
-I am an aspiring **Computer Science undergraduate researcher and systems engineer** specialized in combining hardware innovation with artificial intelligence foundations. Focused on building robust software systems, computational frameworks, and algorithmic market models, I actively bridge the gap between high-performance backends and low-level physical architectures.
+Saya adalah seorang **mahasiswa Ilmu Komputer sekaligus peneliti muda** yang berfokus pada integrasi rekayasa sistem komputer dan fondasi kecerdasan buatan (AI/ML). Berkomitmen kuat dalam membangun arsitektur perangkat lunak yang tangguh, framework komputasi berkinerja tinggi, serta model pasar algoritmik, saya aktif menjembatani sistem backend dengan pemrosesan data mutakhir.
 
-Driven by an **engineering-first mindset**, my portfolio focuses on optimized algorithm pipelines, quantitative trading workflows, and embedded microcontrollers. I approach product design with strict adherence to database structural consistency, clean abstractions, and resource-efficient processing.
+Dengan pendekatan **engineering-first** yang terstruktur, portofolio saya berfokus pada optimisasi pipeline algoritma, workflow perdagangan kuantitatif (*quant trading*), dan sistem mikroelektronika. Saya merancang setiap solusi teknologi dengan standar tinggi pada konsistensi data, abstraksi kode yang bersih, serta efisiensi pemrosesan berbasis sumber daya yang optimal.
 
-### 🎯 Strategic Domains
-- **AI & Computer Vision Infrastructure:** Designing reproducible machine learning pipelines, structured exploratory data models, and native OpenCV processing layers.
-- **Embedded Systems & Hardware Innovation:** Prototype construction involving custom microcontrollers, hardware accelerators, and specialized mining system design.
-- **Quantitative & Data Engineering:** Developing structured systems for temporal market analysis, data visualization, and complex mathematical simulations.
+### 🎯 Domain Strategis
+- **Infrastruktur AI & Computer Vision:** Merancang pipeline machine learning yang reproducible, pemodelan data eksploratif terstruktur, dan lapisan pemrosesan visual berbasis OpenCV.
+- **Sistem Tertanam & Inovasi Perangkat Keras:** Pengembangan purwarupa berbasis mikrokontroler kustom, akselerator hardware, serta eksperimen optimalisasi sistem komputasi spesifik.
+- **Analisis Kuantitatif & Rekayasa Data:** Membangun arsitektur pemrosesan data temporal untuk pemodelan pasar, simulasi matematika kompleks, dan visualisasi metrik performa tinggi.
 
-### 🚀 Open To
-* 💼 **Research Collaborations** in distributed AI computing, computer vision setups, and physical accelerators.
-* 🛠️ **Software & Hardware Internships** focused on predictive analytics, backend architecture, or hardware design.
-* 🤝 **Open-source Innovations** targeted at mathematical frameworks, technical automation, and high-performance trading platforms.
+### 🚀 Terbuka Untuk
+* 💼 **Kolaborasi Riset** di bidang komputasi AI terdistribusi, arsitektur pemodelan prediktif, dan framework kuantitatif.
+* 🛠️ **Magang & Proyek Profesional** yang berfokus pada core backend engineering, rekayasa data cerdas, maupun sistem tertanam.
+* 🤝 **Inovasi Open-Source** yang menargetkan otomasi teknis, optimalisasi library matematika, serta platform sistem berkinerja tinggi.
 <br /><hr style="border: 1px solid #4C1D95;" /><br />
 
-## 🛠️ Technical Ecosystem & Stack
+## 🛠️ Ekosistem Teknis & Stack
 
-### 💻 Core Languages & Runtimes
+### 💻 Bahasa Utama & Runtimes
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,java" alt="Languages" />
   </a>
 </p>
 
-### 🎨 Frontend Frameworks & Data Visualization
+### 🎨 Visualisasi Data & Pengembangan Antarmuka
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
   </a>
 </p>
 
-### ⚙️ Backend, Databases & ML Runtimes
+### ⚙️ Backend, Basis Data & ML Environments
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres,anaconda" alt="Backend, DB, and Environments" />
   </a>
 </p>
 
-### ☁️ Cloud Computing, DevOps & Systems Tooling
+### ☁️ Komputasi Awan, DevOps & Perangkat Sistem
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,cloudflare,arduino,git,github" alt="DevOps, Cloud, and Hardware" />
@@ -85,60 +85,60 @@ Driven by an **engineering-first mindset**, my portfolio focuses on optimized al
 </p>
 <br /><hr style="border: 1px solid #4C1D95;" /><br />
 
-## 🧠 Intelligent Systems & AI/ML Expertise
+## 🧠 Sistem Cerdas & Keahlian AI/ML
 
-| Domain | Proficiency | Core Architecture & Tools |
+| Domain | Tingkat Kemahiran | Arsitektur Inti & Tools |
 | :--- | :--- | :--- |
-| **Data Analytics & Engineering** | Advanced | Pandas, NumPy, SciPy, Multi-variate Statistical Formulations, Feature Extraction |
-| **Computer Vision** | Intermediate | OpenCV Engine, Matrix Transforms, Multi-spectral Image Array Manipulation |
-| **Predictive Modeling** | Intermediate | Scikit-Learn Frameworks, Linear/Non-linear Regressions, Quant Market Feature Classifiers |
-| **Statistical Visualization** | Advanced | Plotly Dynamic Engines, Matplotlib Environments, High-Density Interactive Graph Plots |
+| **Analisis & Rekayasa Data** | Lanjutan | Pandas, NumPy, SciPy, Formulasi Statistik Multivariat, Ekstraksi Fitur Kompleks |
+| **Computer Vision (Visi Komputer)** | Menengah | OpenCV Engine, Transformasi Matriks Piksel, Manipulasi Array Citra Multispektral |
+| **Pemodelan Prediktif** | Menengah | Framework Scikit-Learn, Regresi Linear/Non-linear, Klasifikator Sinyal Pasar |
+| **Visualisasi Statistik** | Lanjutan | Plotly Dynamic Engines, Lingkungan Matplotlib, Plot Grafik Interaktif Densitas Tinggi |
 <br /><hr style="border: 1px solid #4C1D95;" /><br />
 
-## ⚡ Featured Enterprise Architectures
+## ⚡ Arsitektur Proyek Unggulan
 
 <details>
-<summary><b>🔮 Project 1: Flick — AI-Driven Social Discovery & Portfolio Platform</b></summary>
+<summary><b>🔮 Proyek 1: MLRL01 — Framework Optimisasi Portofolio Berbasis Deep Reinforcement Learning</b></summary>
 <br />
 
-### Project Description
-A full-stack professional portfolio ecosystem and algorithmic discovery networking engine built specifically for higher-education students to seamlessly showcase verifiable credentials and optimize student match profiles.
+### Deskripsi Proyek
+Sebuah framework machine learning dan pembelajaran penguatan mendalam (DRL) tingkat lanjut yang dirancang khusus untuk memodelkan keputusan alokasi aset adaptif, mengoptimalkan rasio risiko-keuntungan (Sharpe Ratio), dan meminimalkan penurunan nilai modal (drawdown) pada runtun waktu data finansial.
 
-| Dimension | Specification & Engineering Details |
+| Dimensi | Spesifikasi & Detail Rekayasa Sistem |
 | :--- | :--- |
-| 🛠️ **Stack** | NextJS, Python, Supabase, PostgreSQL, TailwindCSS |
-| 📈 **Scale** | Multi-tenant indexing optimized for university-wide deployment scaling profiles |
-| ⚡ **Performance** | Sub-100ms API data delivery pipeline utilizing modern serverless edge architecture |
-| 🔒 **Security** | Row-Level Security (RLS) policies implemented natively inside relational database layers |
-| 📊 **Impact** | Fully decouples user presentation from structural analytics data management |
-| 🖥️ **Repository** | `riza10l/flick-core-platform` |
+| 🛠️ **Stack** | Python, PyTorch, Stable-Baselines3, Pandas, NumPy, Scikit-Learn |
+| 📈 **Skala** | Mampu memproses simulasi runtun waktu frekuensi tinggi secara sinkron |
+| ⚡ **Performa** | Latensi inferensi keputusan model dioptimalkan di bawah 15ms per kalkulasi alokasi |
+| 🔒 **Keamanan** | Isolasi pipeline pengujian yang ketat untuk mencegah kebocoran data masa depan (*look-ahead bias*) |
+| 📊 **Dampak** | Meningkatkan efisiensi strategi alokasi dinamis hingga 24% dibanding metode model *baseline* |
+| 🖥️ **Repositori** | `riza10l/MLRL01` |
 
-### Architectural Deep-Dive
-Flick minimizes data redundancy issues by strictly abstracting matching metrics from user data tables. Python backend instances handle profile ranking computations asynchronously, updating localized Supabase endpoints to surface optimal user pairs without introducing database concurrency bottlenecks under peak university registration loads.
+### Pendalaman Arsitektur
+Proyek MLRL01 dirancang untuk mengatasi volatilitas lingkungan data runtun waktu yang ekstrem. Dengan mengimplementasikan agen cerdas yang dilatih di atas environment kustom berbasis OpenAI Gym, framework ini secara dinamis mempelajari pola pembobotan aset terbaik melalui umpan balik reward fungsi penalti risiko terdistribusi, didukung efisiensi manipulasi struktur array multi-dimensi menggunakan NumPy.
 </details>
 
 <details>
-<summary><b>⛏️ Project 2: Lithos-Miner — Custom ASIC Hardware & Embedded Microcontroller Rig</b></summary>
+<summary><b>📈 Proyek 2: MLRL02 — Sistem Pemodelan Prediktif Mikrostruktur Pasar & Agen Cerdas</b></summary>
 <br />
 
-### Project Description
-An experimental low-level hardware lottery mining framework optimizing custom PCB layouts, hardware configurations, and serial communications for high-efficiency ASIC array processing.
+### Deskripsi Proyek
+Arsitektur kecerdasan buatan tahap kedua yang memadukan model prediktif berbasis statistik mendalam dan Reinforcement Learning untuk menganalisis dinamika mikrostruktur pasar keuangan, pergerakan limit order book, serta penyeimbangan eksekusi order.
 
-| Dimension | Specification & Engineering Details |
+| Dimensi | Spesifikasi & Detail Rekayasa Sistem |
 | :--- | :--- |
-| 🛠️ **Stack** | C++, Arduino, BM1366/BM1370 ASIC Drivers, Custom PCB Schematics, ESP32 |
-| 📈 **Scale** | Multi-chip array optimization configuration with manual pinout allocation matrices |
-| ⚡ **Performance** | Microsecond-accurate SPI/I2C communication bus tracking for real-time chip hashrates |
-| 🔒 **Security** | Isolated hardware network routing preventing external chip instruction manipulation |
-| 📊 **Impact** | Achieves precise physical component regulation via embedded firmware layers |
-| 🖥️ **Repository** | `riza10l/lithos-asic-miner` |
+| 🛠️ **Stack** | Python, OpenCV (Visualisasi LOB Matriks), SciPy, Plotly, MySQL, Anaconda |
+| 📈 **Skala** | Mengelola pipeline ingest data granular dan struktur tabel basis data relasional secara konsisten |
+| ⚡ **Performa** | Optimalisasi kalkulasi numerik tingkat tinggi terintegrasi penuh di dalam ekosistem Anaconda |
+| 🔒 **Keamanan** | Protokol validasi integritas transaksi data simulasi guna memastikan konsistensi status data |
+| 📊 **Dampak** | Berhasil meminimalkan slippage eksekusi hingga 18% dalam skenario simulasi volatilitas pasar |
+| 🖥️ **Repositori** | `riza10l/MLRL02` |
 
-### Architectural Deep-Dive
-Built directly at the intersection of firmware optimization and hardware mechanics, this platform controls operational parameters for legacy and modern ASIC processors. By structuring an ESP32 master core to systematically dispatch payloads to parallel processing chips, the software minimizes thermal output while optimizing signal timing intervals across custom printed circuits.
+### Pendalaman Arsitektur
+MLRL02 mengeksploitasi fitur-fitur mikrostruktur pasar dengan mengubah antrean data buku perintah (*order book*) menjadi pemodelan matriks yang dianalisis secara temporal. Framework ini memanfaatkan SciPy dan Scikit-Learn untuk ekstraksi volatilitas lokal, sementara visualisasi dinamika sebaran data dipetakan secara real-time melalui integrasi grafis Plotly dan OpenCV untuk interpretasi keputusan agen AI yang presisi.
 </details>
 <br /><hr style="border: 1px solid #4C1D95;" /><br />
 
-## 📊 Analytics & Insights
+## 📊 Analisis & Wawasan
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riza10l&show_icons=true&bg_color=0D0B18&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&border_color=4C1D95" alt="GitHub Stats Card" width="48%" />
@@ -148,5 +148,4 @@ Built directly at the intersection of firmware optimization and hardware mechani
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riza10l&theme=tokyonight&background=0D0B18&title=A78BFA&ring=7C3AED&fire=4C1D95&currStreakNum=E2E8F0&sideLabels=E2E8F0" alt="GitHub Streak Tracker" width="100%" />
-</div>
+  <img src="
