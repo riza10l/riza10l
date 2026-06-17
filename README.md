@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,1e1b4b,4c1d95,7c3aed&height=220&section=header&text=RIZA%20WAHYU&fontSize=46&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%" alt="Capsule Render Wave Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,1e1b4b,4c1d95,7c3aed&height=220&section=header&text=Riza%20Wahyu&fontSize=46&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%" alt="Capsule Render Wave Banner" />
 
   <br />
 
